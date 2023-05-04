@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Abhishek-Mishra/static/css/main.42f01938.css",
+    "main.js": "/Abhishek-Mishra/static/js/main.59474f7e.js",
+    "index.html": "/Abhishek-Mishra/index.html",
+    "main.42f01938.css.map": "/Abhishek-Mishra/static/css/main.42f01938.css.map",
+    "main.59474f7e.js.map": "/Abhishek-Mishra/static/js/main.59474f7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42f01938.css",
+    "static/js/main.59474f7e.js"
+  ]
+}
